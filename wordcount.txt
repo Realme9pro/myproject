@@ -2,3 +2,5 @@ this is java
 this is scala
 this is python
 this is hadoop 
+this is git 
+git is easy to undertsand
